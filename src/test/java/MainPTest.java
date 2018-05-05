@@ -82,13 +82,6 @@ public class MainPTest extends TBase {
         Assert.assertEquals(sitesByPR,allSitesByPR);
     }
 
-    //@Test
-    public void debugTest(){
-
-
-
-
-    }
-
+    
 
 }
