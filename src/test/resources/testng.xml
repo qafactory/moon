@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Tests" verbose="5" data-provider-thread-count="1" configfailurepolicy="continue">
+	<test name="test">
+		<parameter name="name" value="Bob2"/>
+		<parameter name="email" value="bob2@mail.ru"/>
+		<parameter name="pass" value="qazwsx"/>
+		<classes>
+			<class name="MainPTest"/>
+		</classes>
+	</test>
+</suite>
