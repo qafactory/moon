@@ -95,7 +95,7 @@
       <id>ie</id>
       <properties>
         <env>prod</env>
-        <remote.url>http://192.168.5.177:4444/wd/hub</remote.url>
+        <remote.url></remote.url>
         <site.url>http://moonsearch.com</site.url>
         <browser.name>ie</browser.name>
       </properties>
