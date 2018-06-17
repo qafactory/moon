@@ -64,7 +64,7 @@
       <id>local</id>
       <properties>
         <env>local</env>
-        <remote.url>http://192.168.1.63:4444/wd/hub</remote.url>
+        <remote.url></remote.url>
         <browser.name>chrome</browser.name>
         <site.url>http://moonsearch.com</site.url>
       </properties>
